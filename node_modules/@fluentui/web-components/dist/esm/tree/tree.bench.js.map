@@ -1,0 +1,1 @@
+{"version":3,"file":"tree.bench.js","sourceRoot":"","sources":["../../../src/tree/tree.bench.ts"],"names":[],"mappings":"AAAA,OAAO,aAAa,CAAC;AAErB,MAAM,YAAY,GAAG,GAAG,EAAE;IACxB,MAAM,IAAI,GAAG,QAAQ,CAAC,aAAa,CAAC,aAAa,CAAC,CAAC;IACnD,OAAO,IAAI,CAAC;AACd,CAAC,CAAC;AAEF,eAAe,YAAY,CAAC;AAC5B,OAAO,EAAE,KAAK,EAAE,MAAM,+BAA+B,CAAC"}

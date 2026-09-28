@@ -1,0 +1,1 @@
+{"version":3,"file":"slider.bench.js","sourceRoot":"","sources":["../../../src/slider/slider.bench.ts"],"names":[],"mappings":"AAAA,OAAO,aAAa,CAAC;AAErB,MAAM,YAAY,GAAG,GAAG,EAAE;IACxB,MAAM,MAAM,GAAG,QAAQ,CAAC,aAAa,CAAC,eAAe,CAAC,CAAC;IACvD,OAAO,MAAM,CAAC;AAChB,CAAC,CAAC;AAEF,eAAe,YAAY,CAAC;AAC5B,OAAO,EAAE,KAAK,EAAE,MAAM,+BAA+B,CAAC"}

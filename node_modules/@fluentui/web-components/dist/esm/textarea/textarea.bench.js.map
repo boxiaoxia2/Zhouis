@@ -1,0 +1,1 @@
+{"version":3,"file":"textarea.bench.js","sourceRoot":"","sources":["../../../src/textarea/textarea.bench.ts"],"names":[],"mappings":"AAAA,OAAO,aAAa,CAAC;AAErB,MAAM,YAAY,GAAG,GAAG,EAAE;IACxB,MAAM,QAAQ,GAAG,QAAQ,CAAC,aAAa,CAAC,iBAAiB,CAAC,CAAC;IAC3D,OAAO,QAAQ,CAAC;AAClB,CAAC,CAAC;AAEF,eAAe,YAAY,CAAC;AAC5B,OAAO,EAAE,KAAK,EAAE,MAAM,+BAA+B,CAAC"}

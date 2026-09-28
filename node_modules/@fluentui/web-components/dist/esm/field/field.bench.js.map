@@ -1,0 +1,1 @@
+{"version":3,"file":"field.bench.js","sourceRoot":"","sources":["../../../src/field/field.bench.ts"],"names":[],"mappings":"AAAA,OAAO,aAAa,CAAC;AAErB,MAAM,YAAY,GAAG,GAAG,EAAE;IACxB,MAAM,KAAK,GAAG,QAAQ,CAAC,aAAa,CAAC,cAAc,CAAC,CAAC;IACrD,OAAO,KAAK,CAAC;AACf,CAAC,CAAC;AAEF,eAAe,YAAY,CAAC;AAC5B,OAAO,EAAE,KAAK,EAAE,MAAM,+BAA+B,CAAC"}
